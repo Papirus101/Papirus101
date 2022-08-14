@@ -10,6 +10,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NeoVim](https://img.shields.io/badge/NeoVim-green?style=for-the-badge&logo=neovim&logoColor=white)
 
 ## My statistics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Papirus101&theme=github_dark)
