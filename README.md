@@ -12,7 +12,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## My statistics:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Papirus101&theme=dark)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Papirus101&theme=github_dark)
 
 ## Contacts:
