@@ -19,3 +19,6 @@
 ### ✉️ Mail: kirilovilya@mail.ru
 
 ### 📜 Telegram: [@Papirus101](https://t.me/Papirus101)
+
+## Other links
+<a href="https://gitlab.com/Papirus101"><img src="https://img.shields.io/badge/Gitlab-account-orange"></a>
