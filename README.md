@@ -12,9 +12,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-green?style=for-the-badge&logo=neovim&logoColor=white)
 
-## My statistics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Papirus101&theme=github_dark)
-
 ## Contacts:
 
 ### ✉️ Mail: kirilovilya@mail.ru
